@@ -1,0 +1,141 @@
+h1 {
+  margin-top: 90px;
+  font-family: "Sacramento", cursive;
+  font-size: 60px;
+  text-shadow: 4px 3px 1px white;
+  margin-bottom: 0;
+  color: #11999E;
+  ;
+}
+
+body {
+  margin-left: 0;
+  margin-top: 0;
+  margin-right:0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+  line-height: normal;
+  color:#40514E;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 30px;
+  color: #11999E;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 30px;
+  color: #66BFBF;
+}
+
+p {
+  font-family: 'Playfair Display', serif;
+  font-size: 20px;
+  margin: 0 auto;
+  font-weight: normal;
+}
+
+.top-container {
+  background-color: #bbe1fa;
+  position:relative;
+}
+
+.middle-container {
+background-color: #FFFFFF;
+
+}
+
+.bottom-container {}
+
+.uppercloud {
+  margin-left: 600px;
+  position: relative;
+  top: 100px;
+}
+
+.lowercloud {
+  position: absolute;
+  left: 150px;
+}
+.mtn-img{
+  margin-bottom: 0;
+  position:relative;
+  top:4px;
+}
+
+#my-img {
+  width: 140px;
+  height: 140px;
+  margin-top: 80px;
+}
+
+.skill-img {
+  width: 140px;
+  height: 140px;
+  margin-top: 60px;
+}
+
+.skill-img2 {
+  width: 140px;
+  height: 140px;
+  margin-top: 60px;
+}
+
+hr {
+  border: none;
+  border-top: 5px dotted;
+  height: 10px;
+  width: 5%;
+  padding-top: 5px;
+  margin-top: 15px;
+}
+
+a {
+  color: #66BFBF;
+}
+.con-btn{
+  background-color:blue;
+}
+
+
+.myButton {
+	box-shadow: 0px 10px 14px -7px #276873;
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Georgia;
+	font-size:20px;
+	font-weight:bold;
+	font-style:italic;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+  margin-top:15px;
+  margin-bottom: 20px;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.bottom-container{
+  background-color:powderblue;
+  height:150px;
+}
+.bottom-container a{
+  padding:30px;
+  position:relative;
+  top:17px;
+}
+.bottom-container p{
+  margin-top: 35px;
+  font-size:15px;
+}
